@@ -1,0 +1,12 @@
+Welcome to VJQuery.
+
+This project is built on top of Versant JPA, to serve two purposes:
+a) provide an example of the Versant JPA Generic API
+b) provide a handy, command line browser for Versant JPA databases
+
+I'll start with the basics and will provide new features based on
+feedback and my own needs ;-)
+
+Enjoy!
+
+Andreas (wieLaeufer@gmail.com)
